@@ -67,19 +67,6 @@
 
 ---
 
-### Как связаться со мной:
-
-  <div id="badges">
-    <a href="mailto:rodionova4lyalya@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail" />
-    </a>
-    <a href="https://t.me/Lyalya_R" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
-
----
-
 
 ### Мои учебные проекты
 
@@ -95,5 +82,16 @@
 | Stepik.ru/Тестирование ПО с нуля. Теория + практика. Продвинутый курс с ИИ                           | 05/2026 - настоящее время |
 
 --- 
+### Как связаться со мной:
 
+  <div id="badges">
+    <a href="mailto:rodionova4lyalya@gmail.com" target="_blank">
+      <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="Gmail" />
+    </a>
+    <a href="https://t.me/Lyalya_R" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
+
+---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lyalya-QA)
