@@ -72,8 +72,12 @@
 
 ### Мои учебные проекты
 
-- <a href="https://www.postman.com/rodionova4lyalya-8566391/workspace/qa">Тестирование REST и SOAP API</a> – коллекция Postman
-- <a href="https://www.postman.com/rodionova4lyalya-8566391/workspace/qa">Тестирование REST API</a> – коллекция Postman
+- <a href="https://github.com/Lyalya-QA/Web_testing">Тестирование Веб-приложения</a> функциональное и исследовательское тестирование
+- <a href="https://github.com/Lyalya-QA/Postman-API">Тестирование API</a> REST API Postman
+- <a href="https://github.com/Lyalya-QA/SQL">Тестирование Базы данных MySQL</a> 
+
+<!-- - <a href="https://www.postman.com/rodionova4lyalya-8566391/workspace/qa">Тестирование REST и SOAP API</a> – коллекция Postman
+- <a href="https://www.postman.com/rodionova4lyalya-8566391/workspace/qa">Тестирование REST API</a> – коллекция Postman -->
 
 ---
 
